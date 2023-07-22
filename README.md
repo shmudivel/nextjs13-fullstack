@@ -15,6 +15,9 @@ pnpm dev
 npm run dev
 npx grafbase@0.24 dev
 
+Изминить чтоб было видно проекты других пользователей
+таймлайн: =5533s
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
